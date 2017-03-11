@@ -1,6 +1,9 @@
 _repo: Disputation-of-Doctor-Martin-Luther-on-the-Power-and-Efficacy-of-Indulgences_274
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Disputatio pro declaratione virtutis indulgentiarum. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: Martin Luther's 95 Theses.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/274#Disputation-of-Doctor-Martin-Luther-on-the-Power-and-Efficacy-of-Indulgences
 gutenberg_bookshelf:
 - Harvard Classics
 - Christianity
